@@ -3,7 +3,7 @@
 > Machine learning pipeline for early chronic kidney disease (CKD) detection: 5-learner stacking ensemble, 3-cohort external validation (UCI · NHANES · MIMIC-IV), bootstrap SHAP stability, 210-pair interaction analysis, demographic fairness analysis, and clinical decision support dashboard.
 
 **Supporting code for:**
-> Abdulmumini Imam Ibrahim & Manish Madhava Tripathi. "A Hybrid Stacking Ensemble with Deep Neural Network Base Learner for Early Detection of Chronic Kidney Disease: Multi-Cohort Validation, Explainability, and Fairness Analysis." *IEEE Journal of Biomedical and Health Informatics* (under review, 2026).
+> Abdulmumini Imam Ibrahim & Manish Madhava Tripathi. "A Hybrid Stacking Ensemble with Deep Neural Network Base Learner for Early Detection of Chronic Kidney Disease: Multi-Cohort Validation, Explainability, and Fairness Analysis." 
 
 ---
 
