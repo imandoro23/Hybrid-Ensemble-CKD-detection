@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1,AUC_ROC,AUC_PRC,Brier,MCC,Sensitivity,Specificity,PPV,NPV,TP,TN,FP,FN,CV_AUC,CV_AUC_std,CI_AUC_low,CI_AUC_high,CI_Brier_low,CI_Brier_high,Variance_reduction_pct,Meta_learner
+Hybrid Stacking Ensemble,100.0,100.0,100.0,100.0,1.0,1.0,0.0018,1.0,100.0,100.0,100.0,100.0,50,30,0,0,0.9998,0.0004,1.0,1.0,0.0003,0.0048,17.3,LR C=1.00
